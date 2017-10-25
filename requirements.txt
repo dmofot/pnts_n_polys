@@ -1,0 +1,4 @@
+pyshp==1.2.12
+Rtree==0.8.3
+Shapely==1.6.1
+tqdm==4.19.4
